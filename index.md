@@ -2,5 +2,3 @@
 
 ### This is Chaitanya Patel's github pages
 
-*Bold*
-**italic**
